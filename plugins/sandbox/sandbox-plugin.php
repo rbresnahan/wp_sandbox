@@ -20,4 +20,8 @@ require_once __DIR__ . '/Actions/ajax-bookmark.php';
 /* Enqueue */
 require_once __DIR__ . '/assets/enqueuers/enqueue-ajax.php';
 
+/* AJAX */
+require_once __DIR__ . '/Ajax/Bookmark/bookmark-ajax.php';
+
+
 
